@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Kevin Qiendra Syahputra, Web and Mobile Developer">
-  <title>Kevin Qiendra Syahputra — Web &amp; Mobile Developer</title>
+  <title>Kevin Qiendra Syahputra - Web and Mobile Developer</title>
   <defs>
     <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0B1220"/>
@@ -11,14 +11,12 @@
   </defs>
 
   <rect x="4" y="4" width="1192" height="332" rx="26" fill="url(#sky)" stroke="#38BDF8" stroke-width="3"/>
-  <rect x="4" y="4" width="1192" height="332" rx="26" fill="url(#grid)" opacity="0.5">
+  <rect x="4" y="4" width="1192" height="332" rx="26" fill="url(#grid)" opacity="0.5"/>
 
-  <!-- frame glow -->
   <rect x="4" y="4" width="1192" height="332" rx="26" fill="none" stroke="#38BDF8" stroke-width="3" opacity="0.35">
     <animate attributeName="opacity" values="0.12;0.45;0.12" dur="5s" repeatCount="indefinite"/>
   </rect>
 
-  <!-- sparkles -->
   <g stroke="#FBBF24" stroke-width="3" stroke-linecap="round">
     <path d="M1092 74 v18 M1083 83 h18">
       <animate attributeName="opacity" values="0.15;1;0.15" dur="3.2s" repeatCount="indefinite"/>
@@ -27,6 +25,7 @@
       <animate attributeName="opacity" values="1;0.2;1" dur="2.6s" repeatCount="indefinite"/>
     </path>
   </g>
+
   <circle cx="1060" cy="140" r="4" fill="#FB7185">
     <animate attributeName="opacity" values="0.25;1;0.25" dur="3.8s" repeatCount="indefinite"/>
   </circle>
@@ -34,47 +33,37 @@
     <animate attributeName="opacity" values="0.3;1;0.3" dur="2.9s" begin="0.7s" repeatCount="indefinite"/>
   </circle>
 
-  <!-- kartu id: lapisan luar mengapung -->
   <g>
-    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -9; 0 0"
-      keyTimes="0;0.5;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"
-      dur="6s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -9; 0 0" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" dur="6s" repeatCount="indefinite"/>
     <g transform="rotate(-4 201 200)">
       <rect x="96" y="86" width="210" height="228" rx="22" fill="#101A2C" stroke="#38BDF8" stroke-width="3"/>
       <rect x="96" y="86" width="210" height="34" rx="17" fill="#FB7185" opacity="0.18"/>
       <circle cx="201" cy="158" r="46" fill="#16233A" stroke="#FBBF24" stroke-width="3"/>
 
       <ellipse cx="186" cy="151" rx="4.5" ry="4.5" fill="#FBBF24">
-        <animate attributeName="ry" values="4.5;4.5;0.6;4.5;4.5"
-          keyTimes="0;0.9;0.94;0.98;1" dur="5.5s" repeatCount="indefinite"/>
+        <animate attributeName="ry" values="4.5;4.5;0.6;4.5;4.5" keyTimes="0;0.9;0.94;0.98;1" dur="5.5s" repeatCount="indefinite"/>
       </ellipse>
       <ellipse cx="216" cy="151" rx="4.5" ry="4.5" fill="#FBBF24">
-        <animate attributeName="ry" values="4.5;4.5;0.6;4.5;4.5"
-          keyTimes="0;0.9;0.94;0.98;1" dur="5.5s" repeatCount="indefinite"/>
+        <animate attributeName="ry" values="4.5;4.5;0.6;4.5;4.5" keyTimes="0;0.9;0.94;0.98;1" dur="5.5s" repeatCount="indefinite"/>
       </ellipse>
 
       <path d="M183 174 q18 14 36 0" stroke="#FBBF24" stroke-width="4" fill="none" stroke-linecap="round"/>
       <rect x="141" y="228" width="120" height="10" rx="5" fill="#2A3A57"/>
       <rect x="141" y="250" width="72" height="8" rx="4" fill="#1D2A42"/>
-      <text x="201" y="296" font-family="ui-monospace, 'Courier New', monospace" font-size="13"
-        fill="#5B7192" text-anchor="middle" letter-spacing="3">ID 2026</text>
+      <text x="201" y="296" font-family="ui-monospace, 'Courier New', monospace" font-size="13" fill="#5B7192" text-anchor="middle" letter-spacing="3">ID 2026</text>
     </g>
   </g>
 
-  <!-- teks -->
   <circle cx="358" cy="111" r="5" fill="#34D399">
     <animate attributeName="r" values="4;6.5;4" dur="2.4s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.5;1;0.5" dur="2.4s" repeatCount="indefinite"/>
   </circle>
 
-  <text x="372" y="116" font-family="ui-monospace, 'Courier New', monospace" font-size="14"
-    fill="#38BDF8" letter-spacing="4">PEKANBARU, INDONESIA</text>
+  <text x="372" y="116" font-family="ui-monospace, 'Courier New', monospace" font-size="14" fill="#38BDF8" letter-spacing="4">PEKANBARU, INDONESIA</text>
 
-  <text x="372" y="172" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
-    font-size="46" font-weight="700" fill="#E6EDF7">Kevin Qiendra Syahputra</text>
+  <text x="372" y="172" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#E6EDF7">Kevin Qiendra Syahputra</text>
 
-  <text x="372" y="208" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
-    font-size="19" fill="#94A3B8">Web &amp; Mobile Developer · Network &amp; System Enthusiast</text>
+  <text x="372" y="208" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="19" fill="#94A3B8">Web &amp; Mobile Developer · Network &amp; System Enthusiast</text>
 
   <g font-family="ui-monospace, 'Courier New', monospace" font-size="15">
     <rect x="372" y="240" width="112" height="36" rx="18" fill="none" stroke="#38BDF8" stroke-width="2">
@@ -93,6 +82,5 @@
     <text x="759" y="264" fill="#34D399" text-anchor="middle" font-size="14">Linux · Networking · Security</text>
   </g>
 
-  <text x="1170" y="316" font-family="ui-monospace, 'Courier New', monospace" font-size="13"
-    fill="#475569" text-anchor="end">github.com/KevinQiendraSyahputra</text>
+  <text x="1170" y="316" font-family="ui-monospace, 'Courier New', monospace" font-size="13" fill="#475569" text-anchor="end">github.com/KevinQiendraSyahputra</text>
 </svg>
