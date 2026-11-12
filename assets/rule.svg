@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="48" viewBox="0 0 1200 48" role="img" aria-label="divider">
+  <title>divider</title>
+  <line x1="30" y1="24" x2="1170" y2="24" stroke="#1E2B44" stroke-width="2" stroke-dasharray="4 10"/>
+  <circle cx="30" cy="24" r="3.5" fill="#22304A"/>
+  <circle cx="1170" cy="24" r="3.5" fill="#22304A"/>
+
+  <circle cx="40" cy="24" r="11" fill="#38BDF8" opacity="0.12">
+    <animate attributeName="cx" values="40;1160" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="40" cy="24" r="5" fill="#38BDF8">
+    <animate attributeName="cx" values="40;1160" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.92;1" dur="7s" repeatCount="indefinite"/>
+  </circle>
+</svg>
