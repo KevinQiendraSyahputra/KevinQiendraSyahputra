@@ -2,7 +2,7 @@
   <img src="./assets/hero.svg" alt="Kevin Qiendra Syahputra — Web & Mobile Developer" width="100%">
 </div>
 
-<br>
+<img src="./assets/rule.svg" width="100%" alt="">
 
 ## Sekilas
 
@@ -13,7 +13,9 @@ Saat ini siswa **SMK Muhammadiyah 2 Pekanbaru** di bidang Teknologi & Rekayasa, 
 **Sekarang:** Laravel + MySQL untuk sistem berbasis web, Flutter untuk mobile yang serius, dan Red Hat / Cisco untuk sisi infrastruktur.
 **Terbuka untuk:** proyek freelance, magang, dan kolaborasi teknis.
 
-<br>
+<img src="./assets/terminal.svg" width="100%" alt="Terminal: whoami, stack, status">
+
+<img src="./assets/rule.svg" width="100%" alt="">
 
 ## Proyek
 
@@ -23,7 +25,7 @@ Saat ini siswa **SMK Muhammadiyah 2 Pekanbaru** di bidang Teknologi & Rekayasa, 
 | **Catatan Keuangan Mobile**<br>Offline-first, pemasukan/pengeluaran dengan grafik bulanan.<br>`Flutter` `Dart` `SQLite` | **Interactive Terminal Portfolio**<br>Web personal dengan physics canvas, lanyard ID, dan terminal CLI.<br>`HTML5` `CSS3` `JavaScript` |
 | **Bot Automation Lab TKJ**<br>Utilitas automasi untuk kebutuhan praktikum jaringan dan sistem.<br>`Python` | **[Lihat semua repositori →](https://github.com/KevinQiendraSyahputra?tab=repositories)**<br>Kode lengkap, commit history, dan proyek lain. |
 
-<br>
+<img src="./assets/rule.svg" width="100%" alt="">
 
 ## Sertifikasi
 
@@ -33,8 +35,6 @@ Saat ini siswa **SMK Muhammadiyah 2 Pekanbaru** di bidang Teknologi & Rekayasa, 
 | Cisco Networking Academy | CCNA: Introduction to Networks |
 | Cisco Networking Academy | Introduction to Cybersecurity |
 | DQLab | Introduction to Data Science with R |
-
-<br>
 
 ## Kontak
 
