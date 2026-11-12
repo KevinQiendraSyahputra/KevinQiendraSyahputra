@@ -40,7 +40,7 @@ Saat ini siswa **SMK Muhammadiyah 2 Pekanbaru** di bidang Teknologi & Rekayasa, 
 
 <p>
   <a href="mailto:kevinqius5@gmail.com">
-    <img src="https://img.shields.io/badge/kevin123qiendra%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/kevinqius5%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.instagram.com/kepink4hh/">
     <img src="https://img.shields.io/badge/@kepink4hh-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
