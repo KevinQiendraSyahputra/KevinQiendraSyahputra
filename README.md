@@ -39,7 +39,7 @@ Saat ini siswa **SMK Muhammadiyah 2 Pekanbaru** di bidang Teknologi & Rekayasa, 
 ## Kontak
 
 <p>
-  <a href="mailto:kevin123qiendra@gmail.com">
+  <a href="mailto:kevinqius5@gmail.com">
     <img src="https://img.shields.io/badge/kevin123qiendra%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.instagram.com/kepink4hh/">
