@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Kevin Qiendra Syahputra, Web and Mobile Developer">
+  <title>Kevin Qiendra Syahputra — Web &amp; Mobile Developer</title>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="100%" stop-color="#111B2E"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.5" fill="#22304A"/>
+    </pattern>
+  </defs>
+
+  <rect x="4" y="4" width="1192" height="332" rx="26" fill="url(#sky)" stroke="#38BDF8" stroke-width="3"/>
+  <rect x="4" y="4" width="1192" height="332" rx="26" fill="url(#grid)" opacity="0.5"/>
+
+  <!-- sparkles -->
+  <g stroke="#FBBF24" stroke-width="3" stroke-linecap="round" opacity="0.9">
+    <path d="M1092 74 v18 M1083 83 h18"/>
+    <path d="M1148 122 v12 M1142 128 h12"/>
+  </g>
+  <circle cx="1060" cy="140" r="4" fill="#FB7185"/>
+  <circle cx="1120" cy="62" r="3" fill="#34D399"/>
+
+  <!-- kartu id, sedikit miring -->
+  <g transform="rotate(-4 201 200)">
+    <rect x="96" y="86" width="210" height="228" rx="22" fill="#101A2C" stroke="#38BDF8" stroke-width="3"/>
+    <rect x="96" y="86" width="210" height="34" rx="17" fill="#FB7185" opacity="0.18"/>
+    <circle cx="201" cy="158" r="46" fill="#16233A" stroke="#FBBF24" stroke-width="3"/>
+    <circle cx="186" cy="151" r="4.5" fill="#FBBF24"/>
+    <circle cx="216" cy="151" r="4.5" fill="#FBBF24"/>
+    <path d="M183 174 q18 14 36 0" stroke="#FBBF24" stroke-width="4" fill="none" stroke-linecap="round"/>
+    <rect x="141" y="228" width="120" height="10" rx="5" fill="#2A3A57"/>
+    <rect x="141" y="250" width="72" height="8" rx="4" fill="#1D2A42"/>
+    <text x="201" y="296" font-family="ui-monospace, 'Courier New', monospace" font-size="13" fill="#5B7192" text-anchor="middle" letter-spacing="3">ID 2026</text>
+  </g>
+
+  <!-- teks -->
+  <text x="372" y="116" font-family="ui-monospace, 'Courier New', monospace" font-size="14" fill="#38BDF8" letter-spacing="4">PEKANBARU, INDONESIA</text>
+
+  <text x="372" y="172" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#E6EDF7">Kevin Qiendra Syahputra</text>
+
+  <text x="372" y="208" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="19" fill="#94A3B8">Web &amp; Mobile Developer · Network &amp; System Enthusiast</text>
+
+  <g font-family="ui-monospace, 'Courier New', monospace" font-size="15">
+    <rect x="372" y="240" width="112" height="36" rx="18" fill="none" stroke="#38BDF8" stroke-width="2"/>
+    <text x="428" y="264" fill="#38BDF8" text-anchor="middle">Laravel</text>
+
+    <rect x="500" y="240" width="112" height="36" rx="18" fill="none" stroke="#FBBF24" stroke-width="2"/>
+    <text x="556" y="264" fill="#FBBF24" text-anchor="middle">Flutter</text>
+
+    <rect x="628" y="240" width="262" height="36" rx="18" fill="none" stroke="#34D399" stroke-width="2"/>
+    <text x="759" y="264" fill="#34D399" text-anchor="middle" font-size="14">Linux · Networking · Security</text>
+  </g>
+
+  <text x="1170" y="316" font-family="ui-monospace, 'Courier New', monospace" font-size="13" fill="#475569" text-anchor="end">github.com/KevinQiendraSyahputra</text>
+</svg>
