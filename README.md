@@ -1,56 +1,51 @@
 <div align="center">
-
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi%20there,%20I'm%20Kevin!%20👋&fontSize=42&fontAlignY=38&desc=Informatics%20Student%20•%20Web%20Developer%20•%20Tech%20Enthusiast&descFontSize=20&descAlignY=62" width="100%"/>
-
-  <!-- Typing SVG Animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Passionate+about+Web+Development;Building+cool+and+useful+projects;Always+learning+new+technologies" alt="Typing SVG" />
-  </a>
-
+  <img src="./assets/hero.svg" alt="Kevin Qiendra Syahputra — Web & Mobile Developer" width="100%">
 </div>
 
----
+<br>
 
-### 👨‍💻 About Me
-- 🎓 Sedang menempuh pendidikan / fokus di bidang **Teknologi & Pemrograman**
-- 💻 Sedang mengembangkan berbagai proyek web, backend, dan bot automasi
-- 🌱 Sedang memperdalam: **Modern Web Development & Software Engineering**
-- 💬 Tanya saya tentang: **HTML/CSS, JavaScript, Python, & Web Dev**
-- 📫 Hubungi saya: **[kevinqius5@gmail.com](mailto:kevinqius5@gmail.com)**
+## Sekilas
 
----
+Saya membangun aplikasi web dan mobile: sistem kasir yang dipakai kasir sungguhan setiap hari, absensi sekolah berbasis QR, dan aplikasi keuangan mobile yang tetap jalan tanpa internet. Stack utama saya Laravel untuk backend, Flutter untuk mobile, dan JavaScript untuk antarmuka.
 
-### 🛠️ Tech Stack & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,php,mysql,git,github,vscode,figma" />
+Saat ini siswa **SMK Muhammadiyah 2 Pekanbaru** di bidang Teknologi & Rekayasa, dan alumni PKL di **PT PLN Icon Plus Riau**. Di luar pengembangan aplikasi saya mengurus Linux, jaringan, dan keamanan sistem — karena aplikasi yang sudah di-deploy tetap butuh server yang tidak tumbang.
+
+**Sekarang:** Laravel + MySQL untuk sistem berbasis web, Flutter untuk mobile yang serius, dan Red Hat / Cisco untuk sisi infrastruktur.
+**Terbuka untuk:** proyek freelance, magang, dan kolaborasi teknis.
+
+<br>
+
+## Proyek
+
+| | |
+|:--|:--|
+| **Aplikasi Kasir Sederhana**<br>POS multi-role: stok otomatis, cetak struk, laporan harian.<br>`Laravel` `MySQL` `Bootstrap` | **Absensi Siswa QR Code**<br>Pencatatan kehadiran real-time lewat scan QR dinamis.<br>`PHP` `MySQL` `JavaScript` |
+| **Catatan Keuangan Mobile**<br>Offline-first, pemasukan/pengeluaran dengan grafik bulanan.<br>`Flutter` `Dart` `SQLite` | **Interactive Terminal Portfolio**<br>Web personal dengan physics canvas, lanyard ID, dan terminal CLI.<br>`HTML5` `CSS3` `JavaScript` |
+| **Bot Automation Lab TKJ**<br>Utilitas automasi untuk kebutuhan praktikum jaringan dan sistem.<br>`Python` | **[Lihat semua repositori →](https://github.com/KevinQiendraSyahputra?tab=repositories)**<br>Kode lengkap, commit history, dan proyek lain. |
+
+<br>
+
+## Sertifikasi
+
+| Lembaga | Sertifikat |
+|:--|:--|
+| Red Hat | RH124 — Red Hat System Administration I |
+| Cisco Networking Academy | CCNA: Introduction to Networks |
+| Cisco Networking Academy | Introduction to Cybersecurity |
+| DQLab | Introduction to Data Science with R |
+
+<br>
+
+## Kontak
+
+<p>
+  <a href="mailto:kevin123qiendra@gmail.com">
+    <img src="https://img.shields.io/badge/kevin123qiendra%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.instagram.com/kepink4hh/">
+    <img src="https://img.shields.io/badge/@kepink4hh-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <img src="https://img.shields.io/badge/Pekanbaru,%20Indonesia-007ACC?style=flat-square&logo=googlemaps&logoColor=white" alt="Pekanbaru, Indonesia">
 </p>
 
----
-
-### 📊 GitHub Statistics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KevinQiendraSyahputra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinQiendraSyahputra&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinQiendraSyahputra&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-### 🌐 Connect With Me
-<p align="center">
-  <a href="mailto:kevinqius5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+Terima lewat email kalau ada proyek, atau DM Instagram untuk hal yang lebih cepat.
